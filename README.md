@@ -19,15 +19,10 @@ I am a passionate **Full-Stack Developer** with a strong focus on **modern front
 ## 🛠 Tech Stack
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,next,redux,tailwind,framer" />
+<img src="https://skillicons.dev/icons?i=react,next,redux,tailwind" />
 
 ### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-
-### CMS & Platforms
-<img src="https://img.shields.io/badge/Sanity-EF3E36?logo=sanity&logoColor=white" />
-<img src="https://img.shields.io/badge/Strapi-4945FF?logo=strapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Payload_CMS-000000?logo=data:image/svg+xml" />
 
 ### Tools & Others
 <img src="https://skillicons.dev/icons?i=git,github,postman" />
