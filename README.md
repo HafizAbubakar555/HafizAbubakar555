@@ -19,36 +19,16 @@ I am a passionate **Full-Stack Developer** with a strong focus on **modern front
 ## 🛠 Tech Stack
 
 ### Frontend
-
-* React.js
-* Next.js
-* Redux Toolkit
-* Tailwind CSS
-* ShadCN UI
-* Framer Motion
+<img src="https://skillicons.dev/icons?i=react,next,redux,tailwind,framer" />
 
 ### Backend
-
-* Node.js
-* Express.js
-* MongoDB
-* REST APIs
-* MERN Stack
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
 ### CMS & Platforms
-
-* Sanity CMS
-* Strapi CMS
-* Payload CMS
-* Contentful CMS
+<img src="https://skillicons.dev/icons?i=sanity,strapi" />
 
 ### Tools & Others
-
-* Git & GitHub
-* Postman
-* JWT Authentication
-* Role-based Access Control
-* MVC & Layered Architecture
+<img src="https://skillicons.dev/icons?i=git,github,postman" />
 
 ---
 
