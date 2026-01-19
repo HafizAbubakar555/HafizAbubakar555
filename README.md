@@ -40,6 +40,7 @@ I am a passionate **Full-Stack Developer** with a strong focus on **modern front
 * Sanity CMS
 * Strapi CMS
 * Payload CMS
+* Contentful CMS
 
 ### Tools & Others
 
@@ -58,50 +59,6 @@ I am a passionate **Full-Stack Developer** with a strong focus on **modern front
 * 🔐 Implemented authentication, authorization, and protected routes
 * ⚙️ Worked with multiple headless CMS solutions
 * 📈 Focused on clean code, scalability, and performance
-
----
-
-## 🚀 Featured Projects
-
-### 🏠 Property Management Application
-
-* Full-stack MERN application
-* Authentication & role-based access
-* Image upload and advanced filtering
-
-### 📝 CMS-Powered Blog Platform
-
-* Built with Next.js and Sanity CMS
-* Dynamic routing and SEO-friendly pages
-
-### 🎨 Modern UI Projects
-
-* Responsive UI using Tailwind CSS & ShadCN UI
-* Smooth animations with Framer Motion
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
-
----
-
-## 📚 Currently Learning
-
-* Advanced React & Redux patterns
-* Performance optimization in Next.js
-* Scalable backend architectures
-
----
-
-## 🤝 Let's Connect
-
-* 💼 Open to collaboration and real-world projects
-* 🌱 Always excited to learn new technologies
-
-📫 **GitHub:** [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
 
 ---
 
